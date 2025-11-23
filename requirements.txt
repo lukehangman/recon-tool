@@ -1,0 +1,30 @@
+# Recon Automation Tool - Python Dependencies
+# Version 1.0.0
+
+# DNS Resolution and Query
+dnspython==2.4.2
+
+# HTTP Requests and Web Scraping
+requests==2.31.0
+urllib3==2.0.7
+
+# WHOIS Lookups
+python-whois==0.8.0
+
+# SSL/TLS Certificate Handling
+cryptography==41.0.7
+pyOpenSSL==23.3.0
+
+# JSON Handling (standard library, but explicit version for clarity)
+# json - included in Python standard library
+
+# Concurrent Processing (standard library)
+# concurrent.futures - included in Python standard library
+
+# Regular Expressions (standard library)
+# re - included in Python standard library
+
+# Additional utilities
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.6
